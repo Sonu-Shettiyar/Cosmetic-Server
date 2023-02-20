@@ -300,6 +300,16 @@
             "description":"Glam up your pout with our beautifully bold, incredibly long-lasting and gorgeously vivid SUGAR Matte As Hell Crayon Lipstick. This lipstick lives up to its title by providing the most smooth, silky soft matte finish!",
             "brand": "Sugar",
             "category": "Lipstick"
+        },
+        {
+            "id": 30,
+            "title": "It's A-pout Time! Vivid Lipstick",
+            "img": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-it-s-a-pout-time-vivid-lipstick-01-the-big-bang-berry-wine-13204815937619.jpg%3Fv%3D1619100487&w=256&q=75",
+            "price": 359,
+            "rating": 4.7,
+            "description":"Glam up your pout with our beautifully bold, incredibly long-lasting and gorgeously vivid SUGAR Matte As Hell Crayon Lipstick. This lipstick lives up to its title by providing the most smooth, silky soft matte finish!",
+            "brand": "Sugar",
+            "category": "Lipstick"
         }
     ]
 }
